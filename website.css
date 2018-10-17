@@ -120,13 +120,13 @@ footer{
 #section2 {
     position: absolute;
     top: 1250px;
-    color: white;
+    color: black;
     font-size: 15px;
     padding: 50px 20px 20px 20px;
 }
 #section2 a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 
